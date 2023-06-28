@@ -1,0 +1,398 @@
+
+
+
+#topnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(238,238,238);
+    top:0px;
+    left:0px;
+    width: 100%;
+    position: absolute;
+
+}
+
+#homeimg
+{
+    margin-left: 50px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+}
+
+#codeimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -3px;
+}
+
+#jobimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -2px;
+}
+
+#whiteboardimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -4px;
+}
+
+#toolsimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -3px;
+}
+
+#corporateimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -2px;
+}
+
+#swithcimg
+{
+    margin-left: 610px;
+    width: 35px;
+    height: 30px;
+    display: inline-block;
+    margin-bottom: -9px;
+}
+
+#peopleimg
+{
+    margin-left: 15px;
+    width: 18px;
+    height: 16px;
+    display: inline-block;
+    margin-bottom: -3px;
+}
+
+.genericimg
+{
+    margin-left: 10px;
+    width: 16px;
+    height: 14px; 
+    display: inline-block;
+    margin-bottom: -2px;
+}
+
+
+#logoimg
+{
+    margin-left: 40px;
+    height: 50px;
+    width: 200px;
+}
+
+
+#categoryimg
+{
+    margin-left: 20px;
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin-bottom: -4px;
+}
+
+
+#arrowimg
+{
+    margin-left: 1px;
+    width: 11px;
+    height: 9px;
+    display: inline-block;
+    margin-bottom: 1px;
+}
+
+#loginimg
+{
+    margin-left: 16px;
+    width: 18px;
+    height: 18px; 
+    display: inline-block;
+    margin-bottom: -5px;
+}
+
+li {
+  float: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li a {
+  display: inline-block;
+  color: rgb(81,81,81);
+  padding: 16px 2px;
+  text-decoration: none;
+  
+  
+}
+
+
+#secondnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top:0px;
+    margin-top: 50px;
+
+}
+
+
+.container
+{
+    position: relative;
+}
+.main-text {
+    position: absolute;
+    top: 67px;
+    left: 150px;
+  }
+
+
+  #main-text {
+    position: absolute;
+    top: 80px;
+    left: 150px;
+  }
+
+  #secondary-text {
+    position: absolute;
+    top: 145px;
+    left: 150px;
+  }
+
+
+  #search-bar
+  {
+    
+    color: gray; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+    border:2px solid rgb(89,187,77);
+    position: absolute;
+    top: 290px;
+    left: 150px;
+    width: 660px;
+  }
+  
+div.a {
+    border: 1px solid red;
+  }
+
+#searchimg
+{
+    margin-left: 390px;
+    width: 20px;
+    height: 20px;
+    margin-bottom: -5px;
+}
+
+
+#kinda-navbar
+{
+    position: absolute;
+    top: 310px;
+    left: -30px;
+    margin-left: -500px;
+    
+}
+
+
+#tird-nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top:0px;
+    margin-top: 50px;
+    font-size: 115%;
+
+}
+
+.genericimgbig
+{
+    margin-left: 25px;
+    width: 20px;
+    height: 18px; 
+    display: inline-block;
+    margin-bottom: -4px;
+}
+
+
+
+
+
+.box {
+    top: 455px;
+    left: 150px;
+    border: 2px solid rgb(64,169,68); 
+    outline-offset: 2px; 
+    background-color: rgb(64,169,68);  
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 5px;
+    padding-right: 5px; 
+    color: white; 
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 8px;
+    width: 156px;
+    position: absolute;
+    
+  }
+
+  #codeimg2
+{
+    margin-left: 3px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-bottom: -5px;
+    margin-right:  -5px;
+}
+
+#gearimg
+{
+    width: 21px;
+    height: 21px;
+    display: inline-block;
+    margin-bottom: -1px;
+    margin-right: 3px;
+    
+}
+
+
+.engineering {
+    top:   455px;
+    left: 370px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    font-size: 185%;
+    
+  }
+
+
+
+
+  #first {   
+    background-color: rgb(254,246,224);  
+    padding-top: 28px;
+    padding-bottom: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8px;
+    padding-right: 0px;
+    width: 320px;
+    position: absolute;
+    left: 150px;
+
+  }
+
+
+  #laptopimg
+  {
+      position: absolute;
+      margin-left: 5px;
+      padding-left: 45px;
+      display: inline-block;
+      height: 55px;
+      top:23px;
+
+  }
+
+
+
+  #second {   
+    background-color: rgb(232,235,237);  
+    padding-top: 28px;
+    padding-bottom: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8px;
+    padding-right: 0px;
+    width: 320px;
+    position: absolute;
+    left: 500px;
+  }
+
+
+  #tutorimg
+  {
+      position: absolute;
+      margin-left: 25px;
+      padding-left: 45px;
+      display: inline-block;
+      height: 60px;
+      top:19px;
+
+  }
+
+
+
+  #third {   
+    background-color: rgb(240,236,249);  
+    padding-top: 28px;
+    padding-bottom: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8px;
+    padding-right: 0px;
+    width: 320px;
+    position: absolute;
+    left: 850px;
+
+  }
+
+
+  #studentimg
+  {
+      position: absolute;
+      margin-left: 20px;
+      padding-left: 45px;
+      display: inline-block;
+      height: 65px;
+      top:20px;
+
+  }
+
+
+
+  #forth {   
+    background-color: rgb(231,246,248);  
+    padding-top: 28px;
+    padding-bottom: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8px;
+    padding-right: 0px;
+    width: 320px;
+    position: absolute;
+    left: 1200px;
+
+  }
+
+
+  #idkimg
+  {
+      position: absolute;
+      margin-left: 5px;
+      padding-left: 45px;
+      display: inline-block;
+      height: 65px;
+      top:20px;
+
+  }
